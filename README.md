@@ -1,0 +1,1 @@
+This repository contains a full portfolio for RStudio on Supervised and Unsupervised modeling methods. This portfolio contain codes for Linear Regression, Logistical Regression, KNN Regression, KNN Classification, CART, Naive Bayes, CLustering Analysis, and Association Rules. This portfolio goes over the basics of Data Managment and various forms of Data Visualization.
